@@ -1,6 +1,6 @@
 # Core Course Projects
 
-### Virtual Agrochemical Company (CHE 261)  
+### MollyCule Virtual Company (CHE 261)
 Built MollyCule - a profitable virtual firm producing agrochemicals (1000 kg/day) through optimized process design and bottleneck resolution.
 
 ### Styrene Production Simulation (CHE 251)  
